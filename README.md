@@ -1,24 +1,23 @@
-# Hi there 👋
-## Welcome to my profile! 🚀
+<!-- Replace this line with your desired GitHub profile banner image -->
 
+## Hi there 👋
+# Welcome to my profile! 🚀
+
+<!-- Animated lines -->
 <p align="center">
-  <span style="animation: fadeInOut 5s linear infinite;">Passionate about learning new technologies...</span><br>
-  <span style="animation: fadeInOut 5s linear infinite;">Excited to explore new possibilities...</span><br>
-  <span style="animation: fadeInOut 5s linear infinite;">Always ready for new challenges...</span>
+  <span class="animated-span">Passionate about learning new technologies...</span><br>
+  <span class="animated-span">Excited to explore new possibilities...</span><br>
+  <span class="animated-span">Always ready for new challenges...</span>
 </p>
 
 ## About Me
 Hi there! I'm Prabhat Mishra, a passionate learner and enthusiast for new technologies. I thrive on exploring the latest advancements in both tech and other domains. My journey has been fueled by a curiosity to unravel complex challenges and apply innovative solutions. I believe in continuous learning and am always eager to tackle new challenges.
-being practical and efficient, working hands-on and developing solutions quickly and effectively.
 
 <!-- Badges -->
 ![Status](https://img.shields.io/badge/status-updating-brightgreen)
 ![Stars](https://img.shields.io/github/stars/PrabhatMishra/Prabhat-Mishra)
 ![Forks](https://img.shields.io/github/forks/PrabhatMishra/Prabhat-Mishra)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PrabhatMishra.Prabhat-Mishra)
-
-<!-- Uncomment this line to show GitHub Streak -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=PrabhatMishra)](https://git.io/streak-stats) -->
 
 ## Skills & Interests
 - 🌟 **Languages and Tools:**  
@@ -60,19 +59,15 @@ being practical and efficient, working hands-on and developing solutions quickly
 ## Get in Touch
 Let's connect and collaborate on exciting projects!
 
- 
+<style>
+  @keyframes fadeInOut {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
 
-<!--
-**COBR-A/COBR-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  .animated-span {
+    opacity: 0;
+    animation: fadeInOut 5s linear infinite;
+  }
+</style>
