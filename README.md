@@ -2,27 +2,26 @@
 # Welcome to my profile! 🚀
 
 <!-- <img src="https://github.com/COBR-A/Prabhat-Mishra/blob/main/Screenshot%20from%202024-07-05%2017-54-38.png?raw=true" alt="Banner" width="800" height="400"> -->
-<!-- Adding the CSS keyframes directly in each span tag -->
+<!-- Animated lines -->
 <p align="center">
-  <span style="opacity: 0; animation: fadeInOut 5s linear infinite;">Passionate about learning new technologies...</span><br>
-  <span style="opacity: 0; animation: fadeInOut 5s linear infinite;">Excited to explore new possibilities...</span><br>
-  <span style="opacity: 0; animation: fadeInOut 5s linear infinite;">Always ready for new challenges...</span>
+  <span id="line1">Passionate about learning new technologies...</span><br>
+  <span id="line2">Excited to explore new possibilities...</span><br>
+  <span id="line3">Always ready for new challenges...</span>
 </p>
 
+<!-- CSS for animation -->
 <style>
-@keyframes fadeInOut {
-  0% { opacity: 0; }
-  50% { opacity: 1; }
-  100% { opacity: 0; }
-}
-  
-span {
-  opacity: 0;
-  animation: fadeInOut 5s linear infinite;
-}
-
+  @keyframes fadeInOut {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+  /* Apply animation to spans */
+  #line1, #line2, #line3 {
+    opacity: 0;
+    animation: fadeInOut 5s linear infinite;
+  }
 </style>
-
 ## About Me
 Hi there! I'm Prabhat Mishra, a passionate learner and enthusiast for new technologies. I thrive on exploring the latest advancements in both tech and other domains. My journey has been fueled by a curiosity to unravel complex challenges and apply innovative solutions. I believe in continuous learning and am always eager to tackle new challenges.
 being practical and efficient, working hands-on and developing solutions quickly and effectively.
