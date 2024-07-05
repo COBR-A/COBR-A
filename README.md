@@ -44,6 +44,9 @@ being practical and efficient, working hands-on and developing solutions quickly
   ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
   ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
   ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+  ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
+  ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
+
 
 - 🌟 **Hands-On Projects:**  
   ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
@@ -58,8 +61,7 @@ being practical and efficient, working hands-on and developing solutions quickly
   ![Creativity](https://img.shields.io/badge/-Creativity-000?&logo=Creativity)
   ![Innovation](https://img.shields.io/badge/-Innovation-000?&logo=Innovation)
 
-## Current Focus
-- 🌟 **Current Areas of Interest:**  
+- 🌟 **Current focus :**  
   ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000?&logo=Hack%20The%20Box)
   ![Cryptography](https://img.shields.io/badge/-Cryptography-000?&logo=Cryptography)
   ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
