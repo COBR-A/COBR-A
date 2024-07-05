@@ -7,23 +7,19 @@
 
 Hi there! I'm Prabhat Mishra, a passionate learner and enthusiast for new technologies. I thrive on exploring the latest advancements in cybersecurity, AI, machine learning, and IoT. My journey in computer science has been fueled by a curiosity to unravel complex challenges and apply innovative solutions.
 
-## Skills & Interests
-
-- 🌟 **Skills:** Python, Pandas, NumPy, Docker, Cybersecurity, Data Science
-- 💡 **Interests:** AI, Machine Learning, IoT, Robotics, 3D Printing
-
 ## Current Focus
 
-I'm currently diving deep into cybersecurity tools and techniques, experimenting with AI models, and exploring DIY projects in IoT and robotics. I believe in continuous learning and am always eager to tackle new challenges.
+I'm currently focusing on cybersecurity tools and techniques, experimenting with AI models, and exploring DIY projects in IoT and robotics.
+I believe in continuous learning and am always eager to tackle new challenges.
 
 ## Get in Touch
-
 Let's connect and collaborate on exciting projects!
+
 
 <!-- Animated lines -->
 <p align="center">
   <span id="line1" style="opacity: 0; animation: fadeInOut 5s linear infinite;">Passionate about learning new technologies...</span><br>
-  <span id="line2" style="opacity: 0; animation: fadeInOut 5s linear infinite;">Excited to explore AI, ML, and IoT...</span><br>
+  <span id="line2" style="opacity: 0; animation: fadeInOut 5s linear infinite;">Excited to explore new ...</span><br>
   <span id="line3" style="opacity: 0; animation: fadeInOut 5s linear infinite;">Always ready for new challenges...</span>
 </p>
 
@@ -35,15 +31,14 @@ Let's connect and collaborate on exciting projects!
     100% { opacity: 0; }
   }
 </style>
+
 <!-- Badges -->
 ![Status](https://img.shields.io/badge/status-updating-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.12-red)
 ![Stars](https://img.shields.io/github/stars/PrabhatMishra/Prabhat-Mishra)
 ![Forks](https://img.shields.io/github/forks/PrabhatMishra/Prabhat-Mishra)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PrabhatMishra.Prabhat-Mishra)
-<!-- Uncomment this line to show a custom banner -->
  
-
 <!-- Uncomment this line to show GitHub Streak -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=PrabhatMishra)](https://git.io/streak-stats) -->
 ## Prabhat Mishra
