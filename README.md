@@ -59,15 +59,3 @@ Hi there! I'm Prabhat Mishra, a passionate learner and enthusiast for new techno
 ## Get in Touch
 Let's connect and collaborate on exciting projects!
 
-<style>
-  @keyframes fadeInOut {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-  }
-
-  .animated-span {
-    opacity: 0;
-    animation: fadeInOut 5s linear infinite;
-  }
-</style>
