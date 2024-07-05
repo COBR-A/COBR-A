@@ -1,8 +1,7 @@
 ## Hi there 👋
 # Welcome to my profile! 🚀
-## Prabhat Mishra
+
 ![Banner](https://i.imgur.com/r8VF5vH.png)
-## Prabhat Mishra
 
 ## About Me
 
@@ -47,7 +46,7 @@ Let's connect and collaborate on exciting projects!
 
 <!-- Uncomment this line to show GitHub Streak -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=PrabhatMishra)](https://git.io/streak-stats) -->
-
+## Prabhat Mishra
 ### COBR-A
 
 - 🌟 **Languages and Tools:**  
