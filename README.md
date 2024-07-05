@@ -1,5 +1,8 @@
 ## Hi there 👋
 # Welcome to my profile! 🚀
+## Prabhat Mishra
+![Banner](https://i.imgur.com/r8VF5vH.png)
+## Prabhat Mishra
 
 ## About Me
 
@@ -40,12 +43,11 @@ Let's connect and collaborate on exciting projects!
 ![Forks](https://img.shields.io/github/forks/PrabhatMishra/Prabhat-Mishra)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PrabhatMishra.Prabhat-Mishra)
 <!-- Uncomment this line to show a custom banner -->
-<!-- ![Banner](https://i.imgur.com/r8VF5vH.png) -->
+ 
 
 <!-- Uncomment this line to show GitHub Streak -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=PrabhatMishra)](https://git.io/streak-stats) -->
 
-## Prabhat Mishra
 ### COBR-A
 
 - 🌟 **Languages and Tools:**  
