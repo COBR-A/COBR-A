@@ -1,28 +1,21 @@
-<head>
-  <style>
-    @keyframes fadeInOut {
-      0% { opacity: 0; }
-      50% { opacity: 1; }
-      100% { opacity: 0; }
-    }
-    .animated-span {
-      opacity: 0;
-      animation: fadeInOut 5s linear infinite;
-    }
-  </style>
-</head>
+# Hi there 👋
+## Welcome to my profile! 🚀
 
-<body>
-  ## Hi there 👋
-  # Welcome to my profile! 🚀
+### Animated lines
+<p align="center">
+  <span style="animation: fadeInOut 5s linear infinite;">Passionate about learning new technologies...</span><br>
+  <span style="animation: fadeInOut 5s linear infinite;">Excited to explore new possibilities...</span><br>
+  <span style="animation: fadeInOut 5s linear infinite;">Always ready for new challenges...</span>
+</p>
 
-  <!-- Animated lines -->
-  <p align="center">
-    <span class="animated-span">Passionate about learning new technologies...</span><br>
-    <span class="animated-span">Excited to explore new possibilities...</span><br>
-    <span class="animated-span">Always ready for new challenges...</span>
-  </p>
-  <!-- Rest of your content -->
+<style>
+  @keyframes fadeInOut {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+</style>
+
 ## About Me
 Hi there! I'm Prabhat Mishra, a passionate learner and enthusiast for new technologies. I thrive on exploring the latest advancements in both tech and other domains. My journey has been fueled by a curiosity to unravel complex challenges and apply innovative solutions. I believe in continuous learning and am always eager to tackle new challenges.
 being practical and efficient, working hands-on and developing solutions quickly and effectively.
@@ -75,7 +68,6 @@ being practical and efficient, working hands-on and developing solutions quickly
 
 ## Get in Touch
 Let's connect and collaborate on exciting projects!
-</body>
 
  
 
