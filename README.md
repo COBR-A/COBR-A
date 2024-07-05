@@ -1,8 +1,7 @@
 ## Hi there 👋
 # Welcome to my profile! 🚀
 
-![Banner](https://github.com/COBR-A/Prabhat-Mishra/blob/main/Screenshot%20from%202024-03-29%2012-13-43.png?raw=true)
-
+<img src="https://github.com/COBR-A/Prabhat-Mishra/blob/main/Screenshot%20from%202024-07-05%2017-54-38.png?raw=true" alt="Banner" width="800" height="400">
 
 <!-- Animated lines -->
 <p align="center">
