@@ -2,29 +2,25 @@
 # Welcome to my profile! 🚀
 
 <!-- <img src="https://github.com/COBR-A/Prabhat-Mishra/blob/main/Screenshot%20from%202024-07-05%2017-54-38.png?raw=true" alt="Banner" width="800" height="400"> -->
-
-!-- Animated lines -->
-<p align="center">
-  <span style="opacity: 0; animation: fadeInOut 5s linear infinite;">Passionate about learning new technologies...</span><br>
-  <span style="opacity: 0; animation: fadeInOut 5s linear infinite;">Excited to explore new possibilities...</span><br>
-  <span style="opacity: 0; animation: fadeInOut 5s linear infinite;">Always ready for new challenges...</span>
-</p>
 <!-- Adding the CSS keyframes directly in each span tag -->
 <p align="center">
   <span style="opacity: 0; animation: fadeInOut 5s linear infinite;">Passionate about learning new technologies...</span><br>
   <span style="opacity: 0; animation: fadeInOut 5s linear infinite;">Excited to explore new possibilities...</span><br>
   <span style="opacity: 0; animation: fadeInOut 5s linear infinite;">Always ready for new challenges...</span>
 </p>
+
 <style>
 @keyframes fadeInOut {
   0% { opacity: 0; }
   50% { opacity: 1; }
   100% { opacity: 0; }
 }
+  
 span {
   opacity: 0;
   animation: fadeInOut 5s linear infinite;
 }
+
 </style>
 
 ## About Me
