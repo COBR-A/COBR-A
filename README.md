@@ -1,13 +1,14 @@
 <!-- Replace this line with your desired GitHub profile banner image -->
 # Hi there 👋
-@@hi
+
 <p align="center">
-  <font color="blue">I'm Prabhat Mishra.</font><br>
-  <font color="blue">I am passionate about exploring and mastering new technologies.</font><br>
-  <font color="blue">I thrive on exploring the latest advancements in both tech and other domains.</font><br>
-  <font color="blue">Believing in continuous learning, I am always eager to tackle new challenges.</font><br>
-  <font color="blue">Excited by the endless possibilities, I strive to innovate and create.</font><br>
+  <b style="color:blue">I'm Prabhat Mishra.</b><br>
+  <b style="color:blue">I am passionate about exploring and mastering new technologies.</b><br>
+  <b style="color:blue">I thrive on exploring the latest advancements in both tech and other domains.</b><br>
+  <b style="color:blue">Believing in continuous learning, I am always eager to tackle new challenges.</b><br>
+  <b style="color:blue">Excited by the endless possibilities, I strive to innovate and create.</b><br>
 </p>
+
 
 <!-- Badges -->
 ![Status](https://img.shields.io/badge/status-updating-brightgreen)
