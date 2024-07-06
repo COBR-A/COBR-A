@@ -1,14 +1,12 @@
 <!-- Replace this line with your desired GitHub profile banner image -->
 # Hi there 👋
-
 <p align="center">
-  <span style="color: blue;">I'm Prabhat Mishra.</span><br>
-  <span style="color: blue;">I am passionate about exploring and mastering new technologies.</span><br>
-  <span style="color: blue;">I thrive on exploring the latest advancements in both tech and other domains.</span><br>
-  <span style="color: blue;">Believing in continuous learning, I am always eager to tackle new challenges.</span><br>
-  <span style="color: blue;">Excited by the endless possibilities, I strive to innovate and create.</span><br> 
+  <font color="blue">I'm Prabhat Mishra.</font><br>
+  <font color="blue">I am passionate about exploring and mastering new technologies.</font><br>
+  <font color="blue">I thrive on exploring the latest advancements in both tech and other domains.</font><br>
+  <font color="blue">Believing in continuous learning, I am always eager to tackle new challenges.</font><br>
+  <font color="blue">Excited by the endless possibilities, I strive to innovate and create.</font><br>
 </p>
-
 
 <!-- Badges -->
 ![Status](https://img.shields.io/badge/status-updating-brightgreen)
@@ -43,10 +41,9 @@
   ![Creativity](https://img.shields.io/badge/-Creativity-000?&logo=Creativity)
   ![Innovation](https://img.shields.io/badge/-Innovation-000?&logo=Innovation)
 
-
 - 🌟 **Current focus :**
-  ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-000?&logo=Cisco)
   ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000?&logo=Hack%20The%20Box)
+  ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-000?&logo=Cisco)
   ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
   ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
 
