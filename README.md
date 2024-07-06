@@ -11,12 +11,14 @@
 
 ## About Me
 Hi there! I'm Prabhat Mishra, a passionate learner and enthusiast for new technologies. I thrive on exploring the latest advancements in both tech and other domains. My journey has been fueled by a curiosity to unravel complex challenges and apply innovative solutions. I believe in continuous learning and am always eager to tackle new challenges.
+- 🌟 BBPS-23
+- 🌟 UPES-27
 
 <!-- Badges -->
 ![Status](https://img.shields.io/badge/status-updating-brightgreen)
-![Stars](https://img.shields.io/github/stars/PrabhatMishra/Prabhat-Mishra)
-![Forks](https://img.shields.io/github/forks/PrabhatMishra/Prabhat-Mishra)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=PrabhatMishra.Prabhat-Mishra)
+![Stars](https://img.shields.io/github/stars/PrabhatMishra/COBR-A)
+![Forks](https://img.shields.io/github/forks/PrabhatMishra/COBR-A)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=PrabhatMishra.COBR-A)
 
 ## Skills & Interests
 - 🌟 **Languages and Tools:**  
