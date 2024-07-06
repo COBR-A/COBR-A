@@ -1,5 +1,4 @@
 <!-- Replace this line with your desired GitHub profile banner image -->
-
 ## Hi there 👋
 # Welcome to my profile! 🚀
 
@@ -24,19 +23,16 @@ Hi there! I'm Prabhat Mishra, a passionate learner and enthusiast for new techno
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
   ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
   ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
+  ![R](https://img.shields.io/badge/-R-000?&logo=R)
+  ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
+  ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow) 
+
+- 🌟 **Data Science:**  
   ![Data Science](https://img.shields.io/badge/-Data%20Science-000?&logo=DataCamp)
   ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=DataCamp)
   ![Data Exploration](https://img.shields.io/badge/-Data%20Exploration-000?&logo=DataCamp)
-  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-  ![R](https://img.shields.io/badge/-R-000?&logo=R)
-  ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
-  ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
-  ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-  ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
-  ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
-
-
+  ![DBMS](https://img.shields.io/badge/-DBMS-000?&logo=Database)
+  
 - 🌟 **Hands-On Projects:**  
   ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
   ![3D Printing](https://img.shields.io/badge/-3D%20Printing-000?&logo=Thingiverse)
@@ -49,6 +45,7 @@ Hi there! I'm Prabhat Mishra, a passionate learner and enthusiast for new techno
   ![Management](https://img.shields.io/badge/-Management-000?&logo=Management)
   ![Creativity](https://img.shields.io/badge/-Creativity-000?&logo=Creativity)
   ![Innovation](https://img.shields.io/badge/-Innovation-000?&logo=Innovation)
+
 
 - 🌟 **Current focus :**  
   ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000?&logo=Hack%20The%20Box)
