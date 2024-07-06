@@ -1,18 +1,19 @@
 <!-- Replace this line with your desired GitHub profile banner image -->
 # Hi there 👋
-I'm Prabhat Mishra, a passionate learner and enthusiast for new technologies. I thrive on exploring the latest advancements in both tech and other domains. My journey has been fueled by a curiosity to unravel complex challenges and apply innovative solutions. I believe in continuous learning and am always eager to tackle new challenges.
+I'm Prabhat Mishra, a passionate learner and enthusiast for new technologies. I thrive on exploring the latest advancements in both tech and other domains. My journey has been fueled by a curiosity to unravel complex challenges and apply innovative solutions. I 
 
 <p align="center">
   <span >Passionate about learning new technologies...</span><br>
   <span >Excited to explore new possibilities...</span><br>
+  <span >believe in continuous learning and am always eager to tackle new challenges...</span><br>
   <span >Always ready for new challenges...</span>
 </p>
 
 <!-- Badges -->
 ![Status](https://img.shields.io/badge/status-updating-brightgreen)
-![Stars](https://img.shields.io/github/stars/PrabhatMishra/COBR-A)
-![Forks](https://img.shields.io/github/forks/PrabhatMishra/COBR-A)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=PrabhatMishra.COBR-A)
+![Stars](https://img.shields.io/github/stars/COBR-A/COBR-A)
+![Forks](https://img.shields.io/github/forks/COBR-A/COBR-A)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=COBR-A.COBR-A)
 
 ## Skills & Interests
 - 🌟 **Languages and Tools:**  
@@ -42,9 +43,9 @@ I'm Prabhat Mishra, a passionate learner and enthusiast for new technologies. I 
   ![Innovation](https://img.shields.io/badge/-Innovation-000?&logo=Innovation)
 
 
-- 🌟 **Current focus :**  
+- 🌟 **Current focus :**
+  ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-000?&logo=Cisco)
   ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000?&logo=Hack%20The%20Box)
-  ![Cryptography](https://img.shields.io/badge/-Cryptography-000?&logo=Cryptography)
   ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
   ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
 
