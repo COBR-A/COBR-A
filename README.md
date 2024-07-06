@@ -1,13 +1,14 @@
 <!-- Replace this line with your desired GitHub profile banner image -->
 # Hi there 👋
-I'm Prabhat Mishra, a passionate learner and enthusiast for new technologies. I thrive on exploring the latest advancements in both tech and other domains. My journey has been fueled by a curiosity to unravel complex challenges and apply innovative solutions. I 
 
 <p align="center">
-  <span >Passionate about learning new technologies...</span><br>
-  <span >Excited to explore new possibilities...</span><br>
-  <span >believe in continuous learning and am always eager to tackle new challenges...</span><br>
-  <span >Always ready for new challenges...</span>
+  <span style="color: blue;">I'm Prabhat Mishra.</span><br>
+  <span style="color: blue;">I am passionate about exploring and mastering new technologies.</span><br>
+  <span style="color: blue;">I thrive on exploring the latest advancements in both tech and other domains.</span><br>
+  <span style="color: blue;">Believing in continuous learning, I am always eager to tackle new challenges.</span><br>
+  <span style="color: blue;">Excited by the endless possibilities, I strive to innovate and create.</span><br> 
 </p>
+
 
 <!-- Badges -->
 ![Status](https://img.shields.io/badge/status-updating-brightgreen)
