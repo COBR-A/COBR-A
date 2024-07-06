@@ -1,18 +1,12 @@
 <!-- Replace this line with your desired GitHub profile banner image -->
-## Hi there 👋
-# Welcome to my profile! 🚀
+# Hi there 👋
+I'm Prabhat Mishra, a passionate learner and enthusiast for new technologies. I thrive on exploring the latest advancements in both tech and other domains. My journey has been fueled by a curiosity to unravel complex challenges and apply innovative solutions. I believe in continuous learning and am always eager to tackle new challenges.
 
-<!-- Animated lines -->
 <p align="center">
-  <span class="animated-span">Passionate about learning new technologies...</span><br>
-  <span class="animated-span">Excited to explore new possibilities...</span><br>
-  <span class="animated-span">Always ready for new challenges...</span>
+  <span >Passionate about learning new technologies...</span><br>
+  <span >Excited to explore new possibilities...</span><br>
+  <span >Always ready for new challenges...</span>
 </p>
-
-## About Me
-Hi there! I'm Prabhat Mishra, a passionate learner and enthusiast for new technologies. I thrive on exploring the latest advancements in both tech and other domains. My journey has been fueled by a curiosity to unravel complex challenges and apply innovative solutions. I believe in continuous learning and am always eager to tackle new challenges.
-- 🌟 BBPS-23
-- 🌟 UPES-27
 
 <!-- Badges -->
 ![Status](https://img.shields.io/badge/status-updating-brightgreen)
@@ -25,15 +19,14 @@ Hi there! I'm Prabhat Mishra, a passionate learner and enthusiast for new techno
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
   ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
   ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
-  ![R](https://img.shields.io/badge/-R-000?&logo=R)
-  ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
-  ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow) 
-
-- 🌟 **Data Science:**  
   ![Data Science](https://img.shields.io/badge/-Data%20Science-000?&logo=DataCamp)
   ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=DataCamp)
   ![Data Exploration](https://img.shields.io/badge/-Data%20Exploration-000?&logo=DataCamp)
   ![DBMS](https://img.shields.io/badge/-DBMS-000?&logo=Database)
+  ![R](https://img.shields.io/badge/-R-000?&logo=R)
+  ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
+  ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow) 
+
   
 - 🌟 **Hands-On Projects:**  
   ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
