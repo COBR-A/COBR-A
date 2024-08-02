@@ -25,11 +25,9 @@
   ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=DataCamp)
   ![Data Exploration](https://img.shields.io/badge/-Data%20Exploration-000?&logo=DataCamp)
   ![DBMS](https://img.shields.io/badge/-DBMS-000?&logo=Database)
-  ![R](https://img.shields.io/badge/-R-000?&logo=R)
   ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
   ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow) 
 
-  
 - 🌟 **Hands-On Projects:**  
   ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
   ![3D Printing](https://img.shields.io/badge/-3D%20Printing-000?&logo=Thingiverse)
@@ -37,7 +35,8 @@
   ![Drone](https://img.shields.io/badge/-Drone-000?&logo=Drone)
   ![Robotics](https://img.shields.io/badge/-Robotics-000?&logo=Robotics)
 
-- 🌟 **Soft Skills:**  
+- 🌟 **Soft Skills:**
+  ![Analysis](https://img.shields.io/badge/-Analysis-000?&logo=analytics&logoColor=white&style=flat)
   ![Leadership](https://img.shields.io/badge/-Leadership-000?&logo=Leadership)
   ![Management](https://img.shields.io/badge/-Management-000?&logo=Management)
   ![Creativity](https://img.shields.io/badge/-Creativity-000?&logo=Creativity)
