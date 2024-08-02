@@ -18,7 +18,6 @@
 
 ## Skills & Interests
 - 🌟 **Languages and Tools:**
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
   ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
   ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
