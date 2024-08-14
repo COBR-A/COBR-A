@@ -19,8 +19,6 @@
 ## Skills & Interests
 - 🌟 **Languages and Tools:**
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-  ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-  ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
   ![Data Science](https://img.shields.io/badge/-Data%20Science-000?&logo=DataCamp)
   ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=DataCamp)
   ![Data Exploration](https://img.shields.io/badge/-Data%20Exploration-000?&logo=DataCamp)
@@ -43,7 +41,6 @@
   ![Innovation](https://img.shields.io/badge/-Innovation-000?&logo=Innovation)
 
 - 🌟 **Current focus :**
-  ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000?&logo=Hack%20The%20Box)
   ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-000?&logo=Cisco)
   ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
   ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
