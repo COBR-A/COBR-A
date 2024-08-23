@@ -33,13 +33,6 @@
   ![Drone](https://img.shields.io/badge/-Drone-000?&logo=Drone)
   ![Robotics](https://img.shields.io/badge/-Robotics-000?&logo=Robotics)
 
-- 🌟 **Soft Skills:**
-  ![Analysis](https://img.shields.io/badge/-Analysis-000?&logo=analytics&logoColor=white&style=flat)
-  ![Leadership](https://img.shields.io/badge/-Leadership-000?&logo=Leadership)
-  ![Management](https://img.shields.io/badge/-Management-000?&logo=Management)
-  ![Creativity](https://img.shields.io/badge/-Creativity-000?&logo=Creativity)
-  ![Innovation](https://img.shields.io/badge/-Innovation-000?&logo=Innovation)
-
 - 🌟 **Current focus :**
   ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-000?&logo=Cisco)
   ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
