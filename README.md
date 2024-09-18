@@ -22,9 +22,6 @@
   ![Data Science](https://img.shields.io/badge/-Data%20Science-000?&logo=DataCamp)
   ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=DataCamp)
   ![Data Exploration](https://img.shields.io/badge/-Data%20Exploration-000?&logo=DataCamp)
-  ![DBMS](https://img.shields.io/badge/-DBMS-000?&logo=Database)
-  ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
-  ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow) 
 
 - 🌟 **Hands-On Projects:**  
   ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
