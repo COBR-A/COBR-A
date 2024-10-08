@@ -23,19 +23,16 @@
   ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?logo=Plotly&logoColor=white)
   ![Data Exploration](https://img.shields.io/badge/-Data%20Exploration-000?logo=Kaggle&logoColor=white)
   ![Machine learning](https://img.shields.io/badge/-Machine%20Learning-000?logo=TensorFlow&logoColor=white)
-
-### 🛠️ **Hands-On Projects:**  
-  ![Arduino](https://img.shields.io/badge/-Arduino-000?logo=Arduino&logoColor=white)
   ![3D Printing](https://img.shields.io/badge/-3D%20Printing-000?logo=Thingiverse&logoColor=white)
-  ![DIY Robotics](https://img.shields.io/badge/-DIY%20Robotics-000?logo=RobotFramework&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/-Arduino-000?logo=Arduino&logoColor=white)
   ![Drone](https://img.shields.io/badge/-Drone-000?logo=AutelRobotics&logoColor=white)
-  ![Robotics](https://img.shields.io/badge/-Robotics-000?logo=Robotics&logoColor=white)
+  ![DIY Robotics](https://img.shields.io/badge/-DIY%20Robotics-000?logo=RobotFramework&logoColor=white)
 
 ### 🔍 **Current Focus:**
   ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?logo=OpenAI&logoColor=white)
   ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-000?logo=Cisco&logoColor=white)
   ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000?logo=HackTheBox&logoColor=white)
-
+  ![Machine learning](https://img.shields.io/badge/-Machine%20Learning-000?logo=TensorFlow&logoColor=white)
 
 ## 📫 Get in Touch
 Let's connect and collaborate on exciting projects!
